@@ -43,3 +43,8 @@ docker run -it \
     --table=yellow_taxi_data \
     --data_file=data.parquet \
     --hostname=pg-database 
+
+
+#using docker-compose
+    docker-compose up
+
