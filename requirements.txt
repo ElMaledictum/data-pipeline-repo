@@ -1,0 +1,10 @@
+# python -m pip install  --upgrade pip
+
+pandas
+# jupyter
+pyarrow
+fastparquet
+pgcli
+psycopg2
+psycopg[binary,pool]
+sqlalchemy
