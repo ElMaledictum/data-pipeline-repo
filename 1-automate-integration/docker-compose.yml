@@ -18,6 +18,6 @@ services:
     ports:
       - 8080:80
 
-  insert-data:
-    image: taxi_integrate:v001
+  # insert-data:
+  #   image: taxi_integrate:v001
     
