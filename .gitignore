@@ -1,2 +1,3 @@
 .venv
 /1-automate-integration/postgres_data
+/2-using-terraform/.terraform
