@@ -1,4 +1,7 @@
 .venv
 /1-automate-integration/postgres_data
+/1-automate-integration/data.parquet
 /2-using-terraform/.terraform
 /3-orchestrate-using-prefect/postgres_data
+/3-orchestrate-using-prefect/data.parquet
+/4-orchestrate-using-airflow/postgres_data
